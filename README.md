@@ -19,4 +19,10 @@ O objetivo é estudar e demonstrar o funcionamento interno dessas operações se
 ---
 
 ## 📁 Estrutura do Projeto
-
+~~~
+├── main.py
+├── grafo_original.png
+├── grafo_influentes.png
+├── grafo_sem_ciclos.png
+└── grafo_caminho_longo.png
+~~~
